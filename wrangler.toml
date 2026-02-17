@@ -1,0 +1,6 @@
+name = "almhfeehhdu"
+main = "index.js"
+compatibility_date = "2026-02-17"
+
+workers_dev = true
+preview_urls = false
